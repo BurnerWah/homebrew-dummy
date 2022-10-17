@@ -4,7 +4,7 @@ class Node < Formula
   url "https://github.com/YaBoiBurner/homebrew-dummy/raw/main/almost-nothing.tar.xz"
   sha256 "d3a934cebe80b00bc676827b245f93599bde8925c4e85585a86a1325b9867f85"
   license "MIT"
-  version "9999"
+  version "18.11.0"
 
   keg_only "this package is fake, take off your pants"
 
